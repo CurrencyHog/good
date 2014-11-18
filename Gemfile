@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.1.5p273'
+ruby '2.1.5'
 gem 'rails_12factor', group: :production
 gem 'rails', '4.1.7'
 gem 'sqlite3', group: :development
